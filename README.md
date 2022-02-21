@@ -1,6 +1,6 @@
 # GRADE DECISION
 
-This is a program made with Lisp programming languages. This program has the ability to determine the value of A, AB, B, BC, C, D, E automatically just by entering the input from the user.
+This is a program made with Lisp programming languages. This program has the ability to determine the value of A, AB, B, BC, C, D, E automatically just by entering the input from the user. <br> <br>
 
 ## How to use
 
@@ -26,3 +26,10 @@ Bachelor of Informatics study program. <br>
 <button><a href="https://www.instagram.com/gabrielhtg77/">My Instagram</a></button>
 <br>
 <button><a href="https://www.del.ac.id/">Institut Teknologi Del</a></button>
+
+## <b>Changelog</b>
+
+- <b>grade-decision-v1</b>
+  - Using the value reading algorithm from the smallest to the biggest.
+- <b>grade-decision-v2</b>
+  - Use the value reading algorithm of the biggest to the smallest.
