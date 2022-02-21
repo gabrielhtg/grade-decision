@@ -5,13 +5,17 @@ This is a program made with Lisp programming languages. This program has the abi
 ## How to use
 
 Here's how to use this program!
-1. Buka CLISP
-2. Kemudian load file ini
-3. Ketikkan `(grade x)` dengan x adalah nilai yang ingin di konversi ke penilaian A-E.
-   - Rentang nilai yang diterima adalah nilai dari 0-100. Diluar dari nilai itu, akan menghasilkan output yang menyatakan bahwa nilai itu tidak dapat ditentukan.
+1. Open the Clisp
+2. Then load this file
+3. Type 
+   ```
+   (grade x)
+   ``` 
+   with x is the value you want to convert to A-E assessment.
+   - The value span received is the value of 0-100. Out of that value, it will produce output stating that that value cannot be determined.
 ![grade-decision-v1](https://raw.githubusercontent.com/gabrielhtg/grade-decision/main/res/grade-decision-v1.png)
 ![grade-decision-v2](https://raw.githubusercontent.com/gabrielhtg/grade-decision/main/res/grade-decision-v2.png)
-4. Nilai berupa integer yang anda masukkan akan berubah menjadi nilai berupa string.
+1. The value in the form of an integer that you enter will turn into a value in the form of a string.
 
 ## <b>About Me</b>
 
