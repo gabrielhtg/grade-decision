@@ -5,8 +5,8 @@ This is a program made with Lisp programming languages. This program has the abi
 ## How to use
 
 Here's how to use this program!
-1. Open clisp
-2. Then load this file
+1. Open the CLISP.
+2. Then load this file.
 3. Type 
    ```
    (grade x)
@@ -15,7 +15,7 @@ Here's how to use this program!
    - The value span received is the value of 0-100. Out of that value, it will produce output stating that that value cannot be determined.
 ![grade-decision-v1](https://raw.githubusercontent.com/gabrielhtg/grade-decision/main/res/v1.png)
 ![grade-decision-v2](https://raw.githubusercontent.com/gabrielhtg/grade-decision/main/res/v2.png)
-4. The value in the form of an integer that you enter will turn into a value in the form of a string.
+1. The value in the form of an integer that you enter will turn into a value in the form of a string.
 
 ## <b>About Me</b>
 
