@@ -19,8 +19,8 @@
 	    ((>= x 57) 'BC)
         ((>= x 50) 'C)
         ((>= x 35) 'D)
-        ((<= x 0) "Tidak dapat ditentukan!")
-        (T 'E)
+        ((and (>= x 0) (< x 35)) "E")
+        ((< x 0) "Tidak dapat ditentukan.")
     )
 )
 
