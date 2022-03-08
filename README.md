@@ -2,7 +2,7 @@
 
 This is a program made with Lisp programming languages. This program has the ability to determine the value of A, AB, B, BC, C, D, E automatically just by entering the input from the user. <br> <br>
 
-How to make it? See it here <button><a href="https://youtu.be/FSv0KPxIQnM">Click Here</a></button>
+How to make it? See it here <button><a href="https://youtu.be/FtchHKRw-bw">Click Here</a></button>
 
 ## How to use
 
