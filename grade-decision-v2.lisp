@@ -12,7 +12,7 @@
 
 (defun grade(x)
     (cond
-        ((>= x 100) "Tidak dapat ditentukan!")
+        ((> x 100) "Tidak dapat ditentukan!")
         ((>= x 80) 'A)
         ((>= x 72) 'AB)
 	    ((>= x 65) 'B)
